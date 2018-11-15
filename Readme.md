@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DataSet1.cs](./CS/WindowsApplication3/DataSet1.cs) (VB: [DataSet1.vb](./VB/WindowsApplication3/DataSet1.vb))
+* [Main.cs](./CS/WindowsApplication3/Main.cs) (VB: [Main.vb](./VB/WindowsApplication3/Main.vb))
+* [Program.cs](./CS/WindowsApplication3/Program.cs) (VB: [Program.vb](./VB/WindowsApplication3/Program.vb))
+* [SortDialogProvider.cs](./CS/WindowsApplication3/SortDialogProvider.cs) (VB: [SortDialogProvider.vb](./VB/WindowsApplication3/SortDialogProvider.vb))
+* [SortForm.cs](./CS/WindowsApplication3/SortForm.cs) (VB: [SortForm.vb](./VB/WindowsApplication3/SortForm.vb))
+<!-- default file list end -->
 # How to show the Sort Dialog in a grid in a similar manner as in Excel
 
 
