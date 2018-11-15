@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Main.cs](./CS/WindowsApplication3/Main.cs) (VB: [Main.vb](./VB/WindowsApplication3/Main.vb))
+* [SortDialogProvider.cs](./CS/WindowsApplication3/SortDialogProvider.cs) (VB: [SortDialogProvider.vb](./VB/WindowsApplication3/SortDialogProvider.vb))
+* [SortForm.cs](./CS/WindowsApplication3/SortForm.cs) (VB: [SortForm.vb](./VB/WindowsApplication3/SortForm.vb))
+<!-- default file list end -->
 # How to show the Sort Dialog in a grid in a similar manner as in Excel
 
 
